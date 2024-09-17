@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "test": "tsx --test"
+    "test": "tsx --test",
+    "watch-test": "tsx --watch --test"
   },
   "keywords": [],
   "author": "",
